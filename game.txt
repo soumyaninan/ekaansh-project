@@ -1,0 +1,36 @@
+Self designed game
+
+Name - "BORN TO RUN"
+
+Storyline- An alien race called the "PRECURSORS" send monsters to destroy worlds 
+and then move on to the next one. This time they have send monsters to destroy our planet, but there is a hero who can save our world. His name is Jack and he was born with the incredible power of superspeed and superhuman strength. He can save our planet by destroying these creatures who are attacking the civilians and the world.
+
+Goal- To destroy all the monsters before they kill the civilians and ravage the cities.
+
+Rules- Gamestates
+        story gamestate
+        level1 play gamestate
+        level1 end gamestate
+        level2 play gamestate
+        level2 end gamestate
+        level3 play gamestate
+        level3 end gamestate 
+
+        Controls
+        for jumping- Spacebar or Up arrow
+        for punching- press "P"
+        every level you will have only one chance to press "S"
+
+        Adaptivity
+        level 1 -easy
+        speed of monsters - low
+        timer time- 
+
+        level2 -medium
+        speed of monsters - higher
+
+        level3 -hard
+        speed of monsters - highest
+
+
+        
